@@ -1,0 +1,76 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-color: #FFE082;
+
+}
+.container{
+  background: #69F0AE;
+  border-radius: 20px;
+  max-width: 990px;    
+  margin: auto;
+  padding: 20px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+
+
+}
+#banner{
+  position: relative;
+  height: 500px;
+  max-width: 900px;
+  background: url("Kobe Bryant.jpg");
+  background-position: center; 
+  background-size: cover;
+  border-style: solid;
+  border-size: 3px;
+  border-color: white;
+  margin: 10px 0px;
+  border-radius: 10px;
+   margin: auto;
+
+  
+}
+#nba{
+
+  margin-top: 10px;
+  padding: 5px 10px; 
+  border-style: solid;
+  border: 3px solid white;
+  margin-bottom: 10px;
+  
+}
+
+#nba h3 {
+  text-align: center;
+}
+#AS{
+  padding: 5px 10px; 
+  border: 3px solid white;
+  border-radius: 3px;
+
+}
+
+#AS h3 {
+  text-align: center;
+}
+a{
+  color: black;
+  text-decoration: underline;
+}
+ul{
+  display: inline-block;
+}
+.quote{
+  font-size: 18px;
+}
+
+.footer{
+  text-align: center;
+}
+
+.link{
+  text-align: center;
+}
